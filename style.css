@@ -47,7 +47,7 @@ main{
 
 }
 #landing-image{
-    background: urlhttps://images.unsplash.com/photo-1522206024047-9c925421675b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+    background: url(https://images.unsplash.com/photo-1522206024047-9c925421675b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
