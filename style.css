@@ -47,7 +47,7 @@ main{
 
 }
 #landing-image{
-    background: url(https://unsplash.com/photos/De8wMYoSSBc)
+    background: url(https://unsplash.com/photos/De8wMYoSSBc);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@ main{
 #header h2{
     border-left: dotted 1px #fff;
     border-right: dotted 1px #fff;
-    display: inline-blick;
+    display: inline-block;
     padding-right: 1rem;
     padding-left: 1rem;
 }
